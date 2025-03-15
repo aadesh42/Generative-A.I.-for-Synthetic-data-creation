@@ -1,5 +1,4 @@
 # Generative-A.I.-for-Synthetic-data-creation
-<br>
 Project Overview:
 <br>
 This project leverages Generative A.I. techniques to generate synthetic data that mimics real-world datasets without the privacy concerns or data compliance issues. The goal is to generate high-quality, realistic datasets that can be used for various applications such as model training, business analytics, and testing, while ensuring privacy preservation.
